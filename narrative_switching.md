@@ -14,4 +14,9 @@ Part of switching narratives to one of healing is about bringing the locus of co
 
 # INCENTIVES TO SWITCH
 The primary incentives for people to switch include social status and power. Identifying with victimhood narratives can build social status and political power. But choosing a healing narrative can lead to greater status and power later.
+
+-
+
+# ABOUT ME
+Add your private information here so the coach knows about you, who you are and what you're dealing with
 ```
